@@ -1,4 +1,4 @@
 fitlock-frontend
 ===============
 
-TV screen interface
+TV screen interface for fitlock
