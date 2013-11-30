@@ -1,4 +1,4 @@
-fitbit-frontend
+fitlock-frontend
 ===============
 
 TV screen interface
